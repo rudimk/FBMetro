@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>Jarvis</Machine>
+    <WindowsUser>Rudi MK</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>71D1BF304E251D900EF60DDB56891D099BBE9404A84419F82B415FB1EFD19D5B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9a250113-ed9f-47fc-8d65-93abac0efcc7_1.0.0.0_neutral__8xq6vq094jqcp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9a250113-ed9f-47fc-8d65-93abac0efcc7_8xq6vq094jqcp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9a250113-ed9f-47fc-8d65-93abac0efcc7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rudi MK</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-17T07:51:29.433</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.exe">
+      <PackagePath>FBMetro III.exe</PackagePath>
+      <Modified>2012-07-17T08:01:15.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.pdb">
+      <PackagePath>FBMetro III.pdb</PackagePath>
+      <Modified>2012-07-17T08:01:15.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\packages\Facebook.6.0.20\lib\WinRT\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+      <Modified>2012-07-17T07:39:40.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\packages\Facebook.6.0.20\lib\WinRT\Facebook.xml">
+      <PackagePath>Facebook.xml</PackagePath>
+      <Modified>2012-07-17T07:39:40.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FbInfo.xaml">
+      <PackagePath>FbInfo.xaml</PackagePath>
+      <Modified>2012-07-17T07:19:25.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FbLogin.xaml">
+      <PackagePath>FbLogin.xaml</PackagePath>
+      <Modified>2012-07-17T07:48:06.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-07-17T07:23:34.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-17T06:56:08.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-07-17T07:20:42.458</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="FBMetro_III.FbInfo"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FBMetro_III"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}" RenderTransformOrigin="0.497999995946884,0.423000007867813">
+    	<TextBlock HorizontalAlignment="Left" Margin="47.76,38.805,0,0" TextWrapping="Wrap" Text="FBMetro" VerticalAlignment="Top" Height="80.164" Width="193.821" FontSize="48"/>
+    	<TextBlock x:Name="txbUserName" HorizontalAlignment="Left" Margin="290.825,176.257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="65.877" Width="443.049" FontSize="48"/>
+    	<Image x:Name="imgProfilePic" HorizontalAlignment="Left" Height="100" Margin="47.76,176.257,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Page>
+

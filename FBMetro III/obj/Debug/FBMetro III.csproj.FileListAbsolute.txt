@@ -1,0 +1,37 @@
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.exe
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.pdb
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\resources.pri
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\AppxManifest.xml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.build.appxrecipe
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\App.g.i.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\App.g.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FbInfo.g.i.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FbInfo.g.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FbLogin.g.i.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FbLogin.g.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\MainPage.g.i.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\MainPage.g.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\App.xaml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FbInfo.xaml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FbLogin.xaml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\MainPage.xaml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FBMetro III.exe
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FBMetro III.pdb
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\priconfig.xml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\layout.resfiles
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\resources.resfiles
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\pri.resfiles
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\LanguageQualifiers.txt
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\ProjectArchitectures.txt
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\Facebook.dll
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\Facebook.xml
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FBMetro III.csprojResolveAssemblyReference.cache
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\FBMetro III.csproj.GenerateResource.Cache
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\obj\Debug\pri.resfiles.intermediate

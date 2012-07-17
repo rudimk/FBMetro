@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="FBMetro_III.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FBMetro_III"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+    	<TextBlock HorizontalAlignment="Left" Margin="47.76,38.805,0,0" TextWrapping="Wrap" Text="FBMetro" VerticalAlignment="Top" Height="80.164" Width="193.821" FontSize="48"/>
+    	<Button x:Name="cmdFbLogin" Content="Login with Facebook" HorizontalAlignment="Left" Margin="577.61,329.849,0,0" VerticalAlignment="Top" Height="133.522" Width="292.896" Click="cmdFbLogin_Click"/>
+
+    </Grid>
+</Page>
