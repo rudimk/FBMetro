@@ -3,7 +3,7 @@ FBMetro
 
 FBMetro is a planned series of demo apps, to show how the Facebook C# SDK can be used to write compelling Metro apps, for Windows 8. 
 
-As of now, the app authenticates you, and pulls your name and profile pic, from Facebook. I will add lots of more features to the code in the next few days.
+As of now, the app authenticates you, and pulls your name and profile pic as well as your bio and location, from Facebook. I will add lots of more features to the code in the next few days.
 
 To tinker with the code, you need a few things:
 1) A valid App ID from Facebook - head over to http://developers.facebook.com/apps to get started with that.
