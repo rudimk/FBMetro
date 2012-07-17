@@ -12,6 +12,8 @@
     	<TextBlock HorizontalAlignment="Left" Margin="47.76,38.805,0,0" TextWrapping="Wrap" Text="FBMetro" VerticalAlignment="Top" Height="80.164" Width="193.821" FontSize="48"/>
     	<TextBlock x:Name="txbUserName" HorizontalAlignment="Left" Margin="290.825,176.257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="65.877" Width="443.049" FontSize="48"/>
     	<Image x:Name="imgProfilePic" HorizontalAlignment="Left" Height="100" Margin="47.76,176.257,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBlock x:Name="txbBio" HorizontalAlignment="Left" Margin="48,350,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="142" Width="297" FontSize="14"/>
+        <TextBlock x:Name="txbLocation" HorizontalAlignment="Left" Margin="242,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="155" FontSize="14"/>
 
     </Grid>
 </Page>

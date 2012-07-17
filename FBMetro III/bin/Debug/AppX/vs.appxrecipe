@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2012-07-17T07:51:29.433</Modified>
+      <Modified>2012-07-17T09:03:32.743</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.exe">
       <PackagePath>FBMetro III.exe</PackagePath>
-      <Modified>2012-07-17T08:01:15.813</Modified>
+      <Modified>2012-07-17T09:06:01.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FBMetro III.pdb">
       <PackagePath>FBMetro III.pdb</PackagePath>
-      <Modified>2012-07-17T08:01:15.785</Modified>
+      <Modified>2012-07-17T09:06:01.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\packages\Facebook.6.0.20\lib\WinRT\Facebook.dll">
       <PackagePath>Facebook.dll</PackagePath>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FbInfo.xaml">
       <PackagePath>FbInfo.xaml</PackagePath>
-      <Modified>2012-07-17T07:19:25.946</Modified>
+      <Modified>2012-07-17T09:01:14.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rudi MK\Desktop\FBMetro III\FBMetro III\bin\Debug\FbLogin.xaml">
       <PackagePath>FbLogin.xaml</PackagePath>

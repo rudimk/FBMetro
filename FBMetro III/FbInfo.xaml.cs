@@ -45,6 +45,8 @@ namespace FBMetro_III
 
             GetUserProfilePicture();
             GetUserName();
+            GetUserBio();
+            GetUserLocation();
         }
 
         private async void GetUserProfilePicture()
@@ -70,13 +72,43 @@ namespace FBMetro_III
         {
             try
             {
-                dynamic result2 = await _fb.GetTaskAsync("me?fields=name");
-                txbUserName.Text = result2.name;
+                dynamic result_username = await _fb.GetTaskAsync("me?fields=name");
+                txbUserName.Text = result_username.name;
             }
             catch (FacebookApiException ex)
             {
                 // Again, write some sort of error handler.
             }
         }
+
+
+        private async void GetUserBio()
+        {
+            try
+            {
+                dynamic result_bio = await _fb.GetTaskAsync("me?fields=bio");
+                txbBio.Text = result_bio.bio;
+            }
+            catch (FacebookApiException ex)
+            {
+                // Error handlers.
+            }
+
+        }
+
+        private async void GetUserLocation()
+        {
+            try
+            {
+                dynamic result_location = await _fb.GetTaskAsync("me?fields=location");
+                txbLocation.Text = result_location.location.name;
+            }
+            catch (FacebookApiException ex)
+            {
+                // Error handlers.
+            }
+        }
+
+
     }
 }
