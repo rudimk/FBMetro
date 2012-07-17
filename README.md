@@ -11,3 +11,6 @@ To tinker with the code, you need a few things:
 3) Nuget - once you're ready to compile the code yourself, there's one dependency you need to satisfy - the Facebook C# SDK. Install Nuget from http://nuget.org - it's a Visual Studio add-in. Once installed, open up the Package Manager Console(Tools-->Library Package Manager-->Package Manager Console), and punch in the following command, to install the SDK: Install-Package Facebook
 
 ..and you're all set! Feel free to drop in a line at rudimk.firefly@gmail.com, if there's something you'd like to ask, or if there's any way you feel I could write better code.
+
+
+Rudi MK.
