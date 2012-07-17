@@ -26,8 +26,13 @@ namespace FBMetro_III
     {
        
         //Define a Facebook App ID, as well as extended permissions.
+<<<<<<< HEAD
         private const string AppId = "220287254759782";
         private const string ExtendedPermissions = "user_about_me,read_stream,publish_stream,user_location";
+=======
+        private const string AppId = "";
+        private const string ExtendedPermissions = "user_about_me,read_stream,publish_stream";
+>>>>>>> 36e182d3e12c89f83407558f6e8e263d93906414
         
         // Initialize the Facebook Client.
         private readonly FacebookClient _fb = new FacebookClient();
